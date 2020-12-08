@@ -2,7 +2,7 @@
 Trabalho no âmbito da disciplina Tecnologias Internet , TIWM , IPMAIA 20/21 
 
 ## Descrição 
-
+**Videogame website project** using some basic languages
 
 ## Organização do repositório 
 
