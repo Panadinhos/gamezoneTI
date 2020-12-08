@@ -115,8 +115,6 @@
             <platform>Windows</platform>
             <platform>MacOS</platform>
             <platform>Linux</platform>
-            <platform>Playstation</platform>
-            <platform>Xbox</platform>
         </platforms>
         <artists>
             <artist>Mike Morasky</artist>
