@@ -5,7 +5,7 @@ Trabalho no âmbito da disciplina Tecnologias Internet , TIWM , IPMAIA 20/21. De
 **Videogame website project** using some basic languages
 
 ## Organização do repositório 
-* Source code está na pasta [src folder]()
+* Source code está na pasta [src folder](https://github.com/machadexx/gamezoneTI/tree/main/src)
 * Os capítulos do relatório estão na [pasta doc](https://github.com/machadexx/gamezoneTI/tree/main/doc)
 
 ## Galeria
