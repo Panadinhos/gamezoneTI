@@ -2,7 +2,7 @@
 Trabalho no âmbito da disciplina Tecnologias Internet , TIWM , IPMAIA 20/21. Desenvolvido por _Ana Machado_ [@machadexx](https://github.com/machadexx), _André Borges_ [@LittleHypnotist](https://github.com/LittleHypnotist), _Bruno Martins_ [@indizaum](https://github.com/indizaum) e _Miguel André_ [@Panadinhos](https://github.com/Panadinhos).
 
 ## Descrição 
-**Projeto de um website de videojogos** com a utilização de linguagens básicas de programação Web, com o intuito de criar uma página com *diversas funcionalidades* e um *UI acessível* e *fácil de navegar em computadores e dispositivos móveis*.
+**Projeto de um website de videojogos** com a utilização de linguagens básicas de programação Web, com o intuito de criar uma página com *diversas funcionalidades* e um *UI acessível* e *fácil de navegar em computadores* e *dispositivos móveis*.
 
 ## Organização do repositório 
 * Source code está na pasta [src folder](https://github.com/machadexx/gamezoneTI/tree/main/src)
