@@ -5,7 +5,7 @@ Trabalho no âmbito da disciplina Tecnologias Internet , TIWM , IPMAIA 20/21
 **Videogame website project** using some basic languages
 
 ## Organização do repositório 
-**Source code** is in the [src folder]
+**Source code** está na pasta [src folder]
 
 ## Galeria
 
@@ -21,18 +21,16 @@ Trabalho no âmbito da disciplina Tecnologias Internet , TIWM , IPMAIA 20/21
 ## Report
 
 ### Apresentação do projeto 
-* C1: [Apresentação do projeto ](doc/c1.md)
+* C1: [Apresentação do projeto](doc/c1.md)
 
+### Interface
+* C2: [Interface](doc/c2.md)
 
+### Produto
+* C3: [Produto](doc/c3.md)
 
-## Apresentação do projeto
-
-
-## Interface
-
-
-## Apresentação
-
+### Apresentação
+* C4: [Apresentação](doc/c4.md)
 
 ## Equipa
 
