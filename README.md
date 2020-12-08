@@ -1,5 +1,5 @@
 # gamezoneTI
-Trabalho no âmbito da disciplina Tecnologias Internet , TIWM , IPMAIA 20/21 
+Trabalho no âmbito da disciplina Tecnologias Internet , TIWM , IPMAIA 20/21. Desenvolvido por Ana Machado [@machadexx](https://github.com/machadexx), André Borges [@LittleHypnotist](https://github.com/LittleHypnotist), Bruno Martins [@indizaum](https://github.com/indizaum) e Miguel André [@Panadinhos](https://github.com/Panadinhos).
 
 ## Descrição 
 **Videogame website project** using some basic languages
@@ -37,5 +37,5 @@ Trabalho no âmbito da disciplina Tecnologias Internet , TIWM , IPMAIA 20/21
 
 * Ana Machado [@machadexx](https://github.com/machadexx)
 * André Borges [@LittleHypnotist](https://github.com/LittleHypnotist)
-* Bruno [@indizaum](https://github.com/indizaum)
-* Miguel [@Panadinhos](https://github.com/Panadinhos)
+* Bruno Martins [@indizaum](https://github.com/indizaum)
+* Miguel André [@Panadinhos](https://github.com/Panadinhos)
