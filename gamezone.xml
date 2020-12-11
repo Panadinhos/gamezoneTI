@@ -148,4 +148,85 @@
         </desktop>
 
     </peripherals>
+    <events>
+ <event>
+        <name>ISMAI Legends</name>
+        <date> jul 2019 </date>
+        <description>O Festival ISMAI LEGENDS é um evento focado nas novas tecnologias, entretenimento digital, e-Sports e pop culture. Desde 2014, procuramos ser uma referência na abordagem a estas áreas emergentes, pautando-nos pela constante inovação.
+        Esta iniciativa é organizada por docentes e alunos do ISMAI/IPMAIA que, edição após edição, contribuem para melhorar a experiência de todos os participantes, colaboradores e parceiros.</description>
+        <entrycost>Free</entrycost>
+ </event>
+ <event>
+        <name>Lisboa Games Week<name>
+        <date> jul 2019 </date>
+        <description> A reunião de todos os videojogos e todos os teus youtubers e streamers favoritos chegou a Lisboa! Durante uma semana terás
+a oportunidade de te divertires e aprenderes coisas novas! Junta-te a nós!</description>
+        <entrycost> 10€ </entrycost>
+ </event>
+ <event>
+        <name>Brasil Game Show </name>
+        <date> out 2021 </date>
+        <description>Brasil Game Show é o maior evento de videojogos da América Latina e o segundo maior evento de videojogos em área disponível no mundo. </description>
+        <entrycost>Free</entrycost>
+ </event>
+ <event>
+        <name> Comic Con Portugal </name>
+        <date> nov 2021 </date>
+        <description>A Comic Con Portugal é o maior festival de Cultura Pop a realizar-se em Portugal, albergando diversas áreas, como Cinema, Séries Tv, Videojogos, Banda Desenhada, Cosplay, Anime, Manga e Música.</description>
+        <entrycost> 10€ </entrycost>
+ </event>
+ <event>
+        <name> Iberanime </name>
+        <date> mai 2021 </date>
+        <description>O maior evento de cultura pop japonesa e gaming em Portugal.</description>
+        <entrycost>Free</entrycost>
+ </event>
+ <event>
+        <name> MOCHE XL Games World </name>
+        <date> nov 2020 </date>
+        <description>Um evento dedicado aos videojogos para PC e consolas, retrogaming, Esports e cultura geek em geral, dos mesmos produtores da XL Party, LGW (até 2018) e XL Esports.</description>
+        <entrycost>Free</entrycost>
+ </event>
+ <event>
+        <name> Gamescom </name>
+        <date> nov 2020 </date>
+        <description>A maior feira anual de videojogos da Alemanha, é conhecida pelos lançamentos e demonstrações das novidades das grandes produtoras e estúdios independentes, além das novidades em hardware e o cosplay. É a 2ª maior feira mundial de videojogos em número de visitantes.</description>
+        <entrycost>Free</entrycost>
+ </event>
+ <event>
+        <name> E3 Expo </name>
+        <date> jun 2021 </date>
+        <description>O principal evento do mundo para computadores, videojogos e produtos relacionados, onde os maiores talentos da indústria encontram-se para exibir ao mundo as suas melhores criações.</description>
+        <entrycost>Free</entrycost>
+ </event>
+ <event>
+         <name> Summer Game Fest </name>
+        <date> jun 2021 </date>
+        <description>Uma celebração de todo o setor dos videojogos. Notícias digitais, eventos in-game, conteúdo reproduzível e muito mais. Play the Future, de maio a agosto de 2020.</description>
+        <entrycost> 10€ </entrycost>
+ </event>
+ <event>
+         <name> Worten Game Ring Lockdown </name>
+        <date> abr 2021 </date>
+        <description>O Worten Game Ring Lockdown promove torneios todos os dias às 17h30: Clash Royale, Street Fighter, rocket league, magic the gathering, LOL e muitos mais.</description>
+ </event>
+ <event>
+          <name> Europarque Gaming Experience </name>
+         <date> maio 2020 </date>
+         <description>O Europarque Gaming Experience é um evento dedicado a toda a família, que promete aos seus visitantes, 3 dias repletos de videojogos e grandes competições de Esports.</description>
+         <entrycost>Free</entrycost>
+ </event>
+ <event>
+        <name> Red Bull Gaming Ground </name>
+        <date> dez 2020 </date>
+        <description>O Red Bull Gaming Ground Pop Up leva um setup de jogo completo, com consolas, PCs, jogos de arcada e 'Playseats', para o Time Out Market, no Cais do Sodré.</description>
+        <entrycost>Free</entrycost>
+ </event>
+ <event>
+        <name> BLAST Pro Series: Lisbon 2018 </name>
+        <date> dez 2018 </date>
+        <description>O BLAST Pro Series foi lançado em Copenhaga em 2017 e o circuito vai levar o torneio para as principais cidades de todo o mundo nos próximos anos. O evento em Lisboa vai ser transmitido ao vivo na televisão para uma audiência estimada de 275 milhões de pessoas.</description>
+        <entrycost> 10€ </entrycost>
+ </event>
+ </events>
 </gamezone>
