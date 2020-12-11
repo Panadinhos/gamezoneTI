@@ -1,325 +1,151 @@
-<games>
-    <game>
-        <title>League of Legends</title>
-        <producer>Riot Games</producer>
-        <category> MOBA </category>
-        <yearReleased>2009</yearReleased>
-        <programs>
-            <program>C++</program>
-            <program>Lua</program>
-            <program>C#</program>
-            <program>ActionScript</program>
-            <program>Erlang</program>
-            <program>PHP</program>
-            <program>SQL</program>
-        </programs>
-        <platforms>
-            <platform>Windows</platform>
-            <platform>MacOS</platform>
-        </platforms>
-        <artists>
-            <artist>Edmundo Sanchez</artist>
-            <artist>Troy Adam</artist>
-            <artist>Paul Kwon</artist>
-        </artists>
-        <tags>
-            <tag>
-                <title>Equipa</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Online</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Competitivo</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Fantasia</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Ficção centífica</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Bom para pisa-papeis</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-        </tags>
-    </game>
+<gamezone>
+    <games>
+        <game>
+            <title>League of Legends</title>
+            <producer>Riot Games</producer>
+            <category> MOBA </category>
+            <yearReleased>2009</yearReleased>
+            <programs>C++ , Lua , C# , ActionScript , Erlang , PHP and SQL</programs>
+            <platforms>Windows , MacOS </platforms>
+            <artists>Edmundo Sanchez,Troy Adam,Paul Kwon</artists>
+        </game>
+        <game>
+            <title>Dota 2</title>
+            <producer>Valve Corporation</producer>
+            <category> Multiplayer , Co-op </category>
+            <yearReleased>2013</yearReleased>
+            <programs>Source 2</programs>
+            <platforms>Windows , MacOS , Linux </platforms>
+            <artists>Jason Hayes ,Tim Larkin ,Chance Thomas</artists> 
+        </game>
+        <game>
+            <title>Counter-Strike : Global Offensive</title>
+            <producer>Valve Corporation , Hidden Path Entertainment</producer>
+            <category> Multiplayer FPS</category>
+            <yearReleased>2012</yearReleased>
+            <programs>Source Engine</programs>
+            <platforms>Windows , MacOS , Linux , Xbox , Playstation</platforms>
+            <artists>Mike Morasky</artists> 
+        </game>
+        <game>
+            <title>Fifa 21</title>
+            <producer>EA Sports</producer>
+            <category> Sport </category>
+            <yearReleased>2020</yearReleased>
+            <programs>Frostbite Engine</programs>
+            <platforms>Windows , MacOS , Linux , Xbox , Playstation</platforms>
+        </game>
+        <game>
+            <title>Tom Clancy's Rainbow Six: Siege</title>
+            <producer>Ubisoft</producer>
+            <category> FPS </category>
+            <yearReleased>2015</yearReleased>
+            <programs>AnvilNext</programs>
+            <platforms>Windows , Xbox , Playstation</platforms>
+            <artists> Sebastien Labbe ,Augusto César, Andrew Witts</artists> 
+        </game>
+        <game>
+            <title>Minecraft</title>
+            <producer>Mojang Studios</producer>
+            <category> Sandbox, Survival </category>
+            <yearReleased>2011</yearReleased>
+            <programs>Lightweight Java Game Library</programs>
+            <platforms>Windows , Xbox , Playstation , iOS , Android , Raspberry Pi , Windows Phone, Fire OS, Wii U, Nintendo Switch</platforms>
+            <artists> Markus Toivonen, Jasper Boerstra , Daniel Rosenfeld</artists> 
+        </game>  
+        <game>
+            <title>Cyberpunk 2077</title>
+            <producer>CD Projekt Red , Warner Bros. Games</producer>
+            <category> RPG, FPS </category>
+            <yearReleased>2020</yearReleased>
+            <programs>REDengine 4</programs>
+            <platforms>Windows , Xbox , Playstation ,Google Stadia</platforms>
+            <artists>Paweł Mielniczuk, Katarzyna Redesiuk ,Jakub Knapik ,Mateusz Popławski</artists> 
+        </game>  
+        <game>
+            <title>Grand Theft Auto V</title>
+            <producer>Rockstar Games</producer>
+            <category> Action </category>
+            <yearReleased>2013</yearReleased>
+            <programs>RAGE</programs>
+            <platforms>Windows , Xbox , Playstation</platforms>
+            <artists>Adam Fowler, Aaron Garbut ,Michael Unsworth ,Imran Sarwar</artists> 
+        </game>
+        <game>
+            <title>Rocket League</title>
+            <producer>Psyonix</producer>
+            <category> Sport </category>
+            <yearReleased>2015</yearReleased>
+            <programs>Unreal Engine 3</programs>
+            <platforms>Windows , Xbox , Playstation, Linux, MacOS</platforms>
+            <artists>Mike Ault, Bobby McCoin ,Corey Davis ,Sarah Hebbler</artists> 
+        </game>  
+        <game>
+            <title>Rocket League</title>
+            <producer>Psyonix</producer>
+            <category> Sport </category>
+            <yearReleased>2015</yearReleased>
+            <programs>Unreal Engine 3</programs>
+            <platforms>Windows , Xbox , Playstation, Linux, MacOS</platforms>
+            <artists>Mike Ault, Bobby McCoin ,Corey Davis ,Sarah Hebbler</artists> 
+        </game>  
+        <game>
+            <title>Forza Horizon 4</title>
+            <producer>Microsoft Studios</producer>
+            <category> Sport </category>
+            <yearReleased>2018</yearReleased>
+            <programs>Forza Tech</programs>
+            <platforms>Windows , MacOS</platforms>
+        </game>    
+    </games>
+    <peripherals>
+        <keyboard>
+            <name>Teclado Mecânico Corsair K60 RGB Pro Gaming Cherry MX Low Profile Speed PT</name>
+            <brand>Corsair</brand>        
+            <warranty>2 anos</warranty>
+            <layout>PT-PT - ISO</layout>
+            <connection>USB 3.0</connection>
+            <price>149.90€</price>
+            <review>JohnDon: Excelente, o teclado nunca me falhou e o barulho das teclas é top!!!</review>
+        </keyboard>
+        <headset>
+            <name>Headset Plantronics Poly Blackwire 5220 USB-A</name>
+            <brand>Plantronics</brand>        
+            <warranty>2 anos</warranty>
+            <connection>USB 2.0</connection>
+            <price>99.90€</price>
+            <review>AntonioC: Grande som, até me chamam hacker no CS:GO.</review>
+        </headset>
+        <monitor>
+            <name>Monitor Asus TUF Gaming VG27AQ1A IPS 27" QHD 170Hz FreeSync / G-SYNC Compatible</name>
+            <brand>ASUS</brand>        
+            <warranty>2 anos</warranty>
+            <screen>Curvo</screen>
+            <resolution>2560x1440 (QHD)</resolution>
+            <aspectratio>16:9</aspectratio>
+            <size>27"</size>
+            <connection>USB 2.0</connection>
+            <price>499.90€</price>
+            <review>alumbina007: É um bocado caro, mas a qualidade é notável! :)</review> 
+        </monitor>
+        <mouse>
+            <name>Rato Steelseries Rival 3 8500DPI Preto</name>
+            <brand>Steelseries</brand>        
+            <warranty>2 anos</warranty>
+            <connection>USB</connection>
+            <price>38.90€</price>
+            <review>Ana_Cacho_P: o meu namorado Paulo comprou este rato e agora não larga o computador...</review> 
+        </mouse>
+        <desktop>
+            <name>Computador Desktop PCDIGA Gaming RicFazeres Prime RF-MA73NJ0</name>
+            <brand>PCDIGA</brand>
+            <cpu>AMD Ryzen 7 3700X</cpu>
+            <ram>16 GB RAM</ram>
+            <gpu>Radeon RX 5700 XT</gpu>
+            <storage>500GB SSD</storage>
+            <warranty>2 anos</warranty>
+            <review>RicFazeres: Como é que é maltinha, daqui com vocês é RicFazeres, este desktop é TOP!</review>
+        </desktop>
 
-    <game>
-        <title>Dota 2</title>
-        <producer>Valve Corporation</producer>
-        <category> Multiplayer , Co-op </category>
-        <yearReleased>2013</yearReleased>
-        <programs>
-            <program>Source 2</program>
-        </programs>
-        <platforms>
-            <platform>Windows</platform>
-            <platform>MacOS</platform>
-            <platform>Linux</platform>
-        </platforms>
-        <artists>
-            <artist>Jason Hayes</artist>
-            <artist>Tim Larkin</artist>
-            <artist>Chance Thomas</artist>
-        </artists>
-        <tags>
-            <tag>
-                <title>Online</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Competitivo</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Fantasia</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Gosto com pipocas</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Melhor jogo de 2013</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-        </tags>
-    </game>
-
-    <game>
-        <title>Counter-Strike : Global Offensive</title>
-        <producer>Valve Corporation , Hidden Path Entertainment</producer>
-        <category> Multiplayer FPS</category>
-        <yearReleased>2012</yearReleased>
-        <programs>
-            <program>Source Engine</program>
-        </programs>
-        <platforms>
-            <platform>Windows</platform>
-            <platform>MacOS</platform>
-            <platform>Linux</platform>
-        </platforms>
-        <artists>
-            <artist>Mike Morasky</artist>
-        </artists>
-        <tags>
-            <tag>
-                <title>Online</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Competitivo</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Militar</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Táctica</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-            <tag>
-                <title>Estratégia</title>
-                <upvotes>10</upvotes>
-                <downvotes>5</downvotes>
-            </tag>
-        </tags>
-    </game>
-
-    <game>
-        <title>Fifa 21</title>
-        <producer>EA Sports</producer>
-        <category> Sport </category>
-        <yearReleased>2020</yearReleased>
-        <programs>
-            <program>Frostbite Engine</program>
-        </programs>
-        <platforms>
-            <platform>Windows</platform>
-            <platform>MacOS</platform>
-            <platform>Linux</platform>
-            <platform>Playstation</platform>
-            <platform>Xbox</platform>
-        </platforms>
-        <artists>
-            <artist>Desconhecido</artist>
-        </artists>
-        <tag>
-            <title>Futebol</title>
-            <upvotes>10</upvotes>
-            <downvotes>30</downvotes>
-        </tag>
-    </game>
-
-    <game>
-        <title>Tom Clancy's Rainbow Six: Siege</title>
-        <producer>Ubisoft</producer>
-        <category> FPS </category>
-        <yearReleased>2015</yearReleased>
-        <programs>
-            <program>AnvilNext</program>
-        </programs>
-        <platforms>
-            <platform>Windows</platform>
-            <platform>Playstation</platform>
-            <platform>Xbox</platform>
-        </platforms>
-        <artists>
-            <artist>Sebastian Labbe</artist>
-            <artist>Augusto César</artist>
-            <artist>Andrew Witts</artist>
-        </artists>
-        <tag>
-            <title>Melhor jogo de 2020</title>
-            <upvotes>30</upvotes>
-            <downvotes>30</downvotes>
-        </tag>
-    </game>
-
-    <game>
-        <title>Minecraft</title>
-        <producer>Mojang Studios</producer>
-        <category> Sandbox, Survival </category>
-        <yearReleased>2011</yearReleased>
-        <programs>
-            <program>Lightweight Java Game Library</program>
-        </programs>
-        <platforms>
-            <platform>Windows</platform>
-            <platform>MacOS</platform>
-            <platform>Linux</platform>
-            <platform>Playstation</platform>
-            <platform>Xbox</platform>
-            <platform>iOS</platform>
-            <platform>Andoid</platform>
-            <platform>Raspberry Pi</platform>
-            <platform>Windows Phone</platform>
-            <platform>Fire OS</platform>
-            <platform>Wii U</platform>
-            <platform>Nintendo Switch</platform>
-        </platforms>
-        <artists>
-            <artist>Markus Toivonen</artist>
-            <artist>Jasper Boerstra</artist>
-            <artist>Daniel Rosenfeld</artist>
-        </artists>
-        <tags>
-            <tag>
-                <title>Melhor jogo da história</title>
-                <upvotes>1000000</upvotes>
-                <downvotes>0</downvotes>
-            </tag>
-            <tag>
-                <title>Quintal para ocasiões pandémicas</title>
-                <upvotes>1000000</upvotes>
-                <downvotes>0</downvotes>
-            </tag>
-        </tags>
-    </game>
-
-    <game>
-        <title>Cyberpunk 2077</title>
-        <producer>CD Projekt Red , Warner Bros. Games</producer>
-        <category> RPG, FPS </category>
-        <yearReleased>2020</yearReleased>
-        <programs>
-            <program>REDengine 4</program>
-        </programs>
-        <platforms>Windows , Xbox , Playstation ,Google Stadia
-            <platform>Windows</platform>
-            <platform>Playstation</platform>
-            <platform>Xbox</platform>
-            <platform>Google Stadia</platform>
-        </platforms>
-        <artists>
-            <artist>Paweł Mielniczuk</artist>
-            <artist>Katarzyna Redesiuk</artist>
-            <artist>Jakub Knapik</artist>
-            <artist>Mateusz Popławski</artist>
-        </artists>
-        <tags></tags>
-    </game>
-
-    <game>
-        <title>Grand Theft Auto V</title>
-        <producer>Rockstar Games</producer>
-        <category> Action </category>
-        <yearReleased>2013</yearReleased>
-        <programs>
-            <program>RAGE</program>
-        </programs>
-        <platforms>
-            <platform>Windows</platform>
-            <platform>Playstation</platform>
-            <platform>Xbox</platform>
-        </platforms>
-        <artists>
-            <artist>Adam Fowler</artist>
-            <artist>Aaron Garbut</artist>
-            <artist>Michael Unsworth</artist>
-            <artist>Imran Sarwar</artist>
-        </artists>
-        <tags></tags>
-    </game>
-
-    <game>
-        <title>Rocket League</title>
-        <producer>Psyonix</producer>
-        <category> Sport </category>
-        <yearReleased>2015</yearReleased>
-        <programs>
-            <program>Unreal Engine 3</program>
-        </programs>
-        <platforms>Windows , Xbox , Playstation, Linux, MacOS
-            <platform>Windows</platform>
-            <platform>MacOS</platform>
-            <platform>Linux</platform>
-            <platform>Playstation</platform>
-            <platform>Xbox</platform>
-        </platforms>
-        <artists>
-            <artist>Mike Ault</artist>
-            <artist>Bobby McCoin</artist>
-            <artist>Corey Davis</artist>
-            <artist>Sarah Hebbler</artist>
-        </artists>
-        <tags></tags>
-    </game>
-
-    <game>
-        <title>Forza Horizon 4</title>
-        <producer>Microsoft Studios</producer>
-        <category> Sport </category>
-        <yearReleased>2018</yearReleased>
-        <programs>
-            <program>Forza Tech</program>
-        </programs>
-        <platforms>
-            <platform>Windows</platform>
-            <platform>MacOS</platform>
-        </platforms>
-        <tags></tags>
-    </game>
-</games>
+    </peripherals>
+</gamezone>
