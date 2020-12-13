@@ -15,9 +15,15 @@ Trabalho no âmbito da disciplina Tecnologias Internet , TIWM , IPMAIA 20/21. De
 * XML
 * HTML5
 * CSS3
+* JavaScript
+* Node.js
+* NPM
 
 ## Frameworks e Libraries
 * Bootstrap
+* Express
+* EJS
+* Nodemon
 
 ## Report
 
