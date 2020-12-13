@@ -1,10 +1,6 @@
 const express = require("express");
 const app = express();
 
-app.get('/', function (req, res) {
-    res.send('<h1>HOME</h1>')
-})
-
 app.get('/home', function (req, res) {
         res.send('<h1>HOME</h1>');
     })
@@ -19,6 +15,10 @@ app.get('/perifericos', function (req, res) {
 
 app.get('/descontos', function (req, res) {
     res.send('<h1>Descontos</h1>');
+})
+
+app.get('*', function (req, res) {
+    res.send('<h1>HOME</h1>')
 })
 
 app.listen(8080, () => {
