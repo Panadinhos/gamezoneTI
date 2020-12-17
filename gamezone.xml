@@ -2,6 +2,13 @@
     <games>
         <game>
             <title>League of Legends</title>
+            <sinopse>No League of Legends, os jogadores assumem o papel de "invocadores", 
+            que controlam campeões com habilidades únicas, que formam uma equipa e lutam contra a 
+            adversária de outros invocadores ou controlados pelo computador. No modo mais popular do
+            jogo, o objetivo de cada equipa é destruir o Nexus da equipa adversária, uma construção localizada
+            na base e protegida por outras estruturas. Cada partida de League of Legends é distinta, pois os campeões começam sempre fracos
+            e progridem através da acumulação de ouro e da experiência ao longo do jogo.</sinopse>
+            <img path="https://theme.zdassets.com/theme_assets/43400/87a1ef48e43b8cf114017e3ad51b801951b20fcf.jpg">
             <producer>Riot Games</producer>
             <category> MOBA </category>
             <yearReleased>2009</yearReleased>
@@ -11,6 +18,10 @@
         </game>
         <game>
             <title>Dota 2</title>
+            <img path="https://i.pinimg.com/originals/db/f0/3e/dbf03e1c61caff19533254b7290fbc61.jpg">
+            <sinopse>O jogo é baseado em partidas no modo online e offline, em cada uma delas o objetivo é derrotar a equipa adversária e, para isso, é, indispensavelmente,
+            necessário destruir o Ancestral (Ancient), que, por sua vez, se localiza no centro da base inimiga.
+            Cada base é defendida por torres e ondas de unidades (chamadas de criaturas) que percorrem os caminhos principais do mapa que levam à suas bases.</sinopse>
             <producer>Valve Corporation</producer>
             <category> Multiplayer , Co-op </category>
             <yearReleased>2013</yearReleased>
@@ -20,8 +31,12 @@
         </game>
         <game>
             <title>Counter-Strike : Global Offensive</title>
+            <img path="https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg?t=1607046958">
+            <sinopse>O Counter-Strike: Global Offensive (CS:GO) é a continuação do jogo de equipas cheio de ação que foi pioneiro quando foi lançado há 12 anos atrás.
+            O CS: GO apresenta-se com novos mapas, personagens, armas e ainda oferece versões atualizadas de conteúdo do CS clássico (de_dust, etc.).
+            Para além disso, o CS:GO introduz novos modos de jogo, matchmaking, tabelas de classificação e muito mais.</sinopse>
             <producer>Valve Corporation , Hidden Path Entertainment</producer>
-            <category> Multiplayer FPS</category>
+            <category>Multiplayer FPS</category>
             <yearReleased>2012</yearReleased>
             <programs>Source Engine</programs>
             <platforms>Windows , MacOS , Linux , Xbox , Playstation</platforms>
@@ -29,6 +44,8 @@
         </game>
         <game>
             <title>Fifa 21</title>
+            <img path="https://programadoresbrasil.com.br/wp-content/uploads/2020/06/fifa21.1.jpeg">
+            <sinopse>FIFA 21 é o novo título da franquia de futebol da EA Games, principal concorrente do PES 2021, outra série de jogos de futebol. </sinopse>
             <producer>EA Sports</producer>
             <category> Sport </category>
             <yearReleased>2020</yearReleased>
@@ -37,6 +54,9 @@
         </game>
         <game>
             <title>Tom Clancy's Rainbow Six: Siege</title>
+            <img path="https://store.ubi.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/en_US/dw64173a87/images/large/56c494ad88a7e300458b4d5a.jpg?sw=341&sh=450&sm=fit">
+            <sinopse>Os jogadores assumem o papel de um dos membros da equipe contra-terrorista Rainbow, que tem de enfrentar 
+            um novo inimigo chamado The White Masks, que estão a causar o caos por todo o mundo apesar de se desconhecer as suas reais intenções.</sinopse>
             <producer>Ubisoft</producer>
             <category> FPS </category>
             <yearReleased>2015</yearReleased>
@@ -46,6 +66,7 @@
         </game>
         <game>
             <title>Minecraft</title>
+            <img path="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9c/Minecraft_capa.png/260px-Minecraft_capa.png">
             <producer>Mojang Studios</producer>
             <category> Sandbox, Survival </category>
             <yearReleased>2011</yearReleased>
@@ -55,6 +76,10 @@
         </game>  
         <game>
             <title>Cyberpunk 2077</title>
+            <img path="https://upload.wikimedia.org/wikipedia/pt/f/f7/Cyberpunk_2077_capa.png">
+            <sinopse>A história do jogo é ambientada em Night City, um mundo aberto com seis regiões distintas situado no universo da franquia Cyberpunk.
+            É jogado a partir da perspectiva em primeira pessoa, com os jogadores a controlar a personagem V.
+            que pode adquirir habilidades de hacking e maquinários, um arsenal de armas de longo alcance e opções de combate no estilo corpo a corpo.
             <producer>CD Projekt Red , Warner Bros. Games</producer>
             <category> RPG, FPS </category>
             <yearReleased>2020</yearReleased>
@@ -64,6 +89,9 @@
         </game>  
         <game>
             <title>Grand Theft Auto V</title>
+            <img path="https://upload.wikimedia.org/wikipedia/pt/thumb/8/80/Grand_Theft_Auto_V_capa.png/270px-Grand_Theft_Auto_V_capa.png">
+            <sinopse>O jogo se passa no estado ficcional de San Andreas, com a história da campanha um jogador seguindo três criminosos e os seus esforços para realizarem assaltos sob a pressão de uma agência governamental.
+            O mundo aberto permite que os jogadores naveguem livremente pelas áreas rurais e urbanas de San Andreas.</sinopse>
             <producer>Rockstar Games</producer>
             <category> Action </category>
             <yearReleased>2013</yearReleased>
@@ -73,24 +101,20 @@
         </game>
         <game>
             <title>Rocket League</title>
+            <img path="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e8/Rocket_League.jpg/250px-Rocket_League.jpg">
+            <sinopse>Descrito como "futebol, mas com carros movidos a foguete", Rcket League tem de um a quatro jogadores designados para cada uma das duas equipas, usando veículos movidos a foguete para acertar o golodoadversário e marcar pontos ao longo de uma partida.</sinopse>
             <producer>Psyonix</producer>
             <category> Sport </category>
             <yearReleased>2015</yearReleased>
             <programs>Unreal Engine 3</programs>
             <platforms>Windows , Xbox , Playstation, Linux, MacOS</platforms>
             <artists>Mike Ault, Bobby McCoin ,Corey Davis ,Sarah Hebbler</artists> 
-        </game>  
-        <game>
-            <title>Rocket League</title>
-            <producer>Psyonix</producer>
-            <category> Sport </category>
-            <yearReleased>2015</yearReleased>
-            <programs>Unreal Engine 3</programs>
-            <platforms>Windows , Xbox , Playstation, Linux, MacOS</platforms>
-            <artists>Mike Ault, Bobby McCoin ,Corey Davis ,Sarah Hebbler</artists> 
-        </game>  
+        </game>   
         <game>
             <title>Forza Horizon 4</title>
+            <img path="https://store-images.s-microsoft.com/image/apps.20615.14094456225993959.2d017079-463a-4bd6-ac7a-2fb4f65673e9.0faeefd3-4ad9-4634-98df-75b9aeb92d48">
+            <sinopse>A série Forza procura emular as características do desempenho e de condução de um grande número de carros de produção, modificados ou de corrida da vida real.
+            Fprza é visto frequentemente como a resposta da Microsoft a Gran Turismo para as consolas PlayStation. </sinopse>
             <producer>Microsoft Studios</producer>
             <category> Sport </category>
             <yearReleased>2018</yearReleased>
