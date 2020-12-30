@@ -67,6 +67,7 @@
         <game id="6">
             <title>Minecraft</title>
             <img path="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9c/Minecraft_capa.png/260px-Minecraft_capa.png">
+            <sinopse>Em Minecraft, os jogadores exploram um mundo aberto tridimensional intencionalmente em blocos, pixelizado e gerado proceduralmente, podendo descobrir e extrair matérias-primas, ferramentas artesanais, construir estruturas ou terraplanagens e, dependendo do modo de jogo, podem combater inimigos controlados por computador, bem como cooperar ou competir contra outros jogadores no mesmo mundo.</sinopse>
             <producer>Mojang Studios</producer>
             <category> Sandbox, Survival </category>
             <yearReleased>2011</yearReleased>
@@ -90,7 +91,7 @@
         <game id="8">
             <title>Grand Theft Auto V</title>
             <img path="https://upload.wikimedia.org/wikipedia/pt/thumb/8/80/Grand_Theft_Auto_V_capa.png/270px-Grand_Theft_Auto_V_capa.png">
-            <sinopse>O jogo se passa no estado ficcional de San Andreas, com a história da campanha um jogador seguindo três criminosos e os seus esforços para realizarem assaltos sob a pressão de uma agência governamental.
+            <sinopse>O jogo  passa-se no estado ficcional de San Andreas, com a história da campanha um jogador seguindo três criminosos e os seus esforços para realizarem assaltos sob a pressão de uma agência governamental.
             O mundo aberto permite que os jogadores naveguem livremente pelas áreas rurais e urbanas de San Andreas.</sinopse>
             <producer>Rockstar Games</producer>
             <category> Action </category>
