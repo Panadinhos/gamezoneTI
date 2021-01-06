@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     targetNamespace="localhost:8080"
     elementFormDefault="qualified"
-    xmlns="http://www.gamezone.org/home">
+    xmlns="/home">
 
     <xs:element name="programs">
         <xs:complexType>

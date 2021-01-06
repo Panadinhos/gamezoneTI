@@ -4,7 +4,7 @@ const fs = require('fs');
 
 var gzd = new Object();
 
-fs.readFile('./data/gamezone.xml', 'utf8', function(err, data){
+fs.readFile('data/gamezone.xml', 'utf8', function(err, data){
 
   if(err) {
     console.error("ERROR");
@@ -20,7 +20,7 @@ console.log(gzd);
 app.set('view engine', 'ejs')
 
 app.get('/home', function (req, res) {
-    res.render('home');
+    res.render('home',{jogos:gzd});
     })
 
 app.get('/jogos', function (req, res) {
