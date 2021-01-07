@@ -12,9 +12,10 @@ fs.readFile('data/gamezone.xml', 'utf8', function(err, data){
 
   console.log("OK");
   gzd = data;
+  console.log(gzd);
 });
 
-console.log(gzd);
+
 
 
 app.set('view engine', 'ejs');
@@ -36,7 +37,7 @@ app.get('/descontos', function (req, res) {
 });
 
 app.get('*', function (req, res) {
-    res.render('home')
+    res.render('home',{jogos:gzd});
 });
 
 app.listen(8080, () => {
