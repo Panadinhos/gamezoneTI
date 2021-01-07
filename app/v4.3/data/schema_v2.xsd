@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rootElement
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    targetNamespace="gamezone.xml"
-    elementFormDefault="qualified"
-    xmlns="gamezone.xml">
+    targetNamespace="http://wwww.gamezone.com"
+    xmlns="http://wwww.gamezone.com"
+    elementFormDefault="qualified">
 
     <!-- xs:element name="programs">
         <xs:complexType>
