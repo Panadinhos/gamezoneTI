@@ -1,0 +1,15 @@
+/* modificar todos os cards*/
+.cards {
+    margin: 0 auto;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+    gap: 40px;
+    font-family: sans-serif;
+  }
+
+/* para modificar card*/
+.card {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
