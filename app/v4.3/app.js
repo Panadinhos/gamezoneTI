@@ -12,7 +12,7 @@ fs.readFile('data/gamezone.xml', 'utf8', function(err, data){
 
   console.log("OK");
   gzd = data;
-})
+});
 
 console.log(gzd);
 
