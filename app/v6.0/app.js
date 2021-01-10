@@ -44,12 +44,15 @@ app.get('/perifericos', function (req, res) {
 app.get('/descontos', function (req, res) {
     res.render('descontos');
 })
+
 app.get('/criadores', function (req, res) {
   res.render('criadores');
 })
+
 app.get('/eventos', function (req, res) {
   res.render('eventos');
 })
+
 app.get('*', function (req, res) {
     res.render('home',{jogos:gzdxml});
 })

@@ -30,7 +30,7 @@ parser.parseStringPromise(gzdxml).then(function (result) {
 app.set('view engine', 'ejs')
 
 app.get('/home', function (req, res) {
-    res.render('home',{jogos:gzd});
+    res.render('home',{jogos:gzdxml});
 })
 
 app.get('/jogos', function (req, res) {
@@ -46,7 +46,7 @@ app.get('/descontos', function (req, res) {
 })
 
 app.get('*', function (req, res) {
-    res.render('home',{jogos:gzd});
+    res.render('home',{jogos:gzdxml});
 })
 
 app.listen(8080, () => {
