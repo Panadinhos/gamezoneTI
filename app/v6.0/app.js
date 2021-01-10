@@ -45,6 +45,10 @@ app.get('/descontos', function (req, res) {
     res.render('descontos');
 })
 
+app.get('/plat', function (req, res) {
+  res.render('plataformas');
+})
+
 app.get('/criadores', function (req, res) {
   res.render('criadores');
 })
