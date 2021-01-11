@@ -2,19 +2,28 @@ const express = require('express');
 const app = express();
 const fs = require('fs');
 
-var gzdxmlstr = fs.readFileSync('data/gamezone.xml', 'utf8');
+var gzdxml = new Object();
+
+fs.readFile('data/gamezone.xml', 'utf8', function(err, data){
+
+  if(err) {
+    console.error("ERROR");
+  }
+
+  console.log("OK");
+  gzdxml = data;
+  console.log(gzdxml);
+});
 
 const xml2js = require('xml2js');
-const parser = new xml2js.Parser();
-parser.parseString(gzdxmlstr, (err,data) => {
-  if (err===null) {
-    console.dir(data);
-    var gzdxml=data;
-    console.log('Done');
-    console.log(gzdxml);
-  } else {
-    console.log(err)
-  };
+
+var parser = new xml2js.Parser();
+parser.parseStringPromise(gzdxml).then(function (result) {
+  console.dir(result);
+  console.log('Done');
+})
+.catch(function (err) {
+  // Failed
 });
 
 
