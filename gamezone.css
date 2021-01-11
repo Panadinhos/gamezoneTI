@@ -1,16 +1,17 @@
 /* modificar todos os cards*/
 .cards {
-    margin: 0 auto;
-    max-width: 1000px;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
-    gap: 40px;
-    font-family: sans-serif;
+    grid-template-rows: 500px 500px 500px;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   }
 
 /* para modificar card*/
 .card {
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    background: #444;
+    border: 1px solid #555;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
 }
 
 .inner{
@@ -22,3 +23,14 @@
 .inner:hover img{
   transform: scale(1.5);
 }
+
+/*
+margin: 0 auto;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+    gap: 40px;
+    font-family: sans-serif;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    grid-template-columns: 500px 500px 500px;
+    
