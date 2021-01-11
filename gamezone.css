@@ -1,7 +1,13 @@
+.cardsection {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
 /* modificar todos os cards*/
 .cards {
     display: grid;
-    grid-template-rows: 500px 500px 500px;
+    grid-template-rows: 680px 680px 680px;
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   }
 
@@ -13,7 +19,6 @@
     align-items: center;
     justify-content: center;  
 }
-
 .inner{
   overflow: hidden;
 }
@@ -23,7 +28,9 @@
 .inner:hover img{
   transform: scale(1.5);
 }
-
+.btn{
+  align-content: right;
+}
 /*
 margin: 0 auto;
     max-width: 1000px;
