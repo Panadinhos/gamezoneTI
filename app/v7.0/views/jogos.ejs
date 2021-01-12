@@ -53,19 +53,23 @@
         <div class="container">
             <div class="row justify-content-center">
               <% for (var i in data) { %>
-                <div class= 'cards'>
-                    <div class="card shadow" style="width: 18rem;">
-                        <div class="inner">
-                          <img src="<%=data[i]['img'][0]%>" class="card-img-top"/>
-                        </div>
-                        <div class="card-body">
-                          <h5 class="card-title"><%= data[i]["title"][0] %></h5>
-                          <p class="card-text">
-                            <%= data[i]["sinopse"][0] %>
-                            <br>
-                            <strong>Plataformas: </strong> <%= data[i]["platforms"][0] %>
-                          </p>
-                          <a href="#" class="btn btn-primary" id="btn" onclick="window.open('<%= data[i]["teaser"][0] %>')">Ver teaser</a>
+                <div class="col-sm-12 col-md-6 col-lg-4 col-xl-3">
+                    <div class= 'cards'>
+                        <div class="card shadow" style="width: 18rem;">
+                            <div class="inner">
+                              <img src="<%=data[i]['img'][0]%>" class="card-img-top"/>
+                            </div>
+                            <div class="card-body">
+                              <h5 class="card-title">
+                                  <%= data[i]["title"][0] %>
+                              </h5>
+                              <p class="card-text">
+                                <%= data[i]["sinopse"][0] %>
+                                <br>
+                                <strong>Plataformas: </strong> <%= data[i]["platforms"][0] %>
+                              </p>
+                              <a href="#" class="btn btn-primary" id="btn" onclick="window.open('<%= data[i]["teaser"][0] %>')">Ver teaser</a>
+                            </div>
                         </div>
                     </div>
                 </div>
