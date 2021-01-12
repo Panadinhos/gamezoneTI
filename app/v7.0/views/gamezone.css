@@ -2,12 +2,7 @@ body{
   background-image: url('https://i.ibb.co/68D4mS1/662959.png')!important; 
   background-repeat: repeat;
 }
-.cardsection {
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
-}
+
 .card text{
   max-width: 60ch;
   overflow: hidden;
@@ -45,9 +40,13 @@ body{
 }
 .inner{
   overflow: hidden;
+  height: 410px;
+  width: 287px;
 }
 .inner img{
   transition: all 1.5s ease;
+  height: 390px;
+  width: 287px;
 }
 .inner:hover img{
   transform: scale(1.5);
