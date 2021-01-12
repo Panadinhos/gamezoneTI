@@ -8,7 +8,7 @@ const parser = new xml2js.Parser({ attrkey: "ATTR" });
 var stringgg = fs.readFileSync('data/gamezone.xml', 'utf-8')
 parser.parseString(stringgg, (err, d) => {
   if (err === null) {
-    console.log(d["gamezone"]["game"][0]);
+    console.log(d);
 
   } else {
     console.log(err)
