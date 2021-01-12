@@ -63,10 +63,13 @@
                               <h5 class="card-title">
                                   <%= data[i]["title"][0] %>
                               </h5>
-                              <p class="card-text">
+                              <p class="card-text justify-content-center">
                                 <%= data[i]["sinopse"][0] %>
-                                <br>
+                                <br>                                
+                              </p>
+                              <p class="cardplat">
                                 <strong>Plataformas: </strong> <%= data[i]["platforms"][0] %>
+                                <br>
                               </p>
                               <a href="#" class="btn btn-primary" id="btn" onclick="window.open('<%= data[i]["teaser"][0] %>')">Ver teaser</a>
                             </div>

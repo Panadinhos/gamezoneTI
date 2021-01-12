@@ -8,6 +8,22 @@ body{
   padding-bottom: 50px;
   padding-left: 80px;
 }
+.card text{
+  max-width: 60ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.cardplat{
+  max-width: 30ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.card-img-top{
+  height: 280px !important;
+  size: 420px !important;
+}
 /* modificar todos os cards*/
 .cards {
     display: grid;
