@@ -3,6 +3,7 @@ const app = express();
 const fs = require('fs');
 const xml2js = require('xml2js');
 const parser = new xml2js.Parser({ attrkey: "ATTR" });
+app.use(express.static(__dirname+"\\..\\.."));
 
 var stringgg = fs.readFileSync('data/gamezone.xml', 'utf-8')
 parser.parseString(stringgg, (err, d) => {

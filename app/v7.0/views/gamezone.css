@@ -1,0 +1,54 @@
+body{
+  background-image: url('https://i.ibb.co/68D4mS1/662959.png')!important; 
+  background-repeat: repeat;
+}
+.cardsection {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+/* modificar todos os cards*/
+.cards {
+    display: grid;
+    grid-template-rows: 680px 680px 680px; 
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  }
+
+/* para modificar card*/
+.card {
+    background: #444;
+    border: 1px solid #555;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.card text{
+  text-align: justify;
+  text-overflow: clip;
+}
+.inner{
+  overflow: hidden;
+}
+.inner img{
+  transition: all 1.5s ease;
+}
+.inner:hover img{
+  transform: scale(1.5);
+}
+.btn{
+  align-content: right;
+}
+
+/*margin:
+  0 auto;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
+    gap: 40px;
+    font-family: sans-serif;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    grid-template-columns: 500px 500px 500px
+
+
+    
