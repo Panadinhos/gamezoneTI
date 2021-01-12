@@ -1,5 +1,6 @@
-.body{
-  background-image: url(https://ak.picdn.net/shutterstock/videos/11023610/thumb/1.jpg);
+body{
+  background-image: url('https://i.ibb.co/68D4mS1/662959.png')!important; 
+  background-repeat: repeat;
 }
 .cardsection {
   padding-top: 50px;
