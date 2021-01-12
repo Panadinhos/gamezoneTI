@@ -57,7 +57,7 @@
         </game>
         <game id="5">
             <title>Tom Clancy's Rainbow Six: Siege</title>
-            <img>https://store.ubi.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/en_US/dw64173a87/images/large/56c494ad88a7e300458b4d5a.jpg?sw=341&sh=450&sm=fit</img>
+            <img>https://store.ubi.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/en_US/dw64173a87/images/large/56c494ad88a7e300458b4d5a.jpg?sw=341-sh=450-sm=fit</img>
             <sinopse>Os jogadores assumem o papel de um dos membros da equipe contra-terrorista Rainbow, que tem de enfrentar
             um novo inimigo chamado The White Masks, que estão a causar o caos por todo o mundo apesar de se desconhecer as suas reais intenções.</sinopse>
             <producer>Ubisoft</producer>
@@ -83,7 +83,7 @@
             <img>https://upload.wikimedia.org/wikipedia/pt/f/f7/Cyberpunk_2077_capa.png</img>
             <sinopse>A história do jogo é ambientada em Night City, um mundo aberto com seis regiões distintas situado no universo da franquia Cyberpunk.
             É jogado a partir da perspectiva em primeira pessoa, com os jogadores a controlar a personagem V.
-            que pode adquirir habilidades de hacking e maquinários, um arsenal de armas de longo alcance e opções de combate no estilo corpo a corpo.
+            que pode adquirir habilidades de hacking e maquinários, um arsenal de armas de longo alcance e opções de combate no estilo corpo a corpo.</sinopse>
             <producer>CD Projekt Red , Warner Bros. Games</producer>
             <category> RPG, FPS </category>
             <yearReleased>2020</yearReleased>
@@ -185,7 +185,7 @@
               <entrycost>Free</entrycost>
         </event>
         <event id="16">
-              <name>Lisboa Games Week<name>
+              <name>Lisboa Games Week</name>
               <date> jul 2019 </date>
               <description> A reunião de todos os videojogos e todos os teus youtubers e streamers favoritos chegou a Lisboa! Durante uma semana terás
         a oportunidade de te divertires e aprenderes coisas novas! Junta-te a nós!</description>
@@ -257,7 +257,7 @@
               <entrycost>Free</entrycost>
         </event>
         <event id="16">
-              <name>Lisboa Games Week<name>
+              <name>Lisboa Games Week</name>
               <date> jul 2019 </date>
               <description> A reunião de todos os videojogos e todos os teus youtubers e streamers favoritos chegou a Lisboa! Durante uma semana terás
         a oportunidade de te divertires e aprenderes coisas novas! Junta-te a nós!</description>
