@@ -25,17 +25,26 @@ body{
 }
 .inner{
   overflow: hidden;
-  height: 410px;
-  width: 287px;
+}
+.innerjogos{
+  overflow: hidden;
 }
 .inner img{
   transition: all 1.5s ease;
-  height: 390px;
-  width: 287px;
+}
+.innerjogos img{
+  transition: all 1.5s ease;
 }
 .inner:hover img{
   transform: scale(1.5);
 }
+.innerjogos:hover img{
+  transform: scale(1.5);
+}
+.innerjogos{
+    height: 390px;
+    width: 287px;
+  }
 .btn{
   align-content: right;
 }
