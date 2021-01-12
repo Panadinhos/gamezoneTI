@@ -22,14 +22,13 @@ body{
 /* modificar todos os cards*/
 .cards {
     display: grid;
-    grid-template-rows: 680px 680px 680px; 
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-template-columns: 30vw 1fr 15vw;
   }
 
 /* para modificar card*/
 .card {
     background: #444;
-    border: 1px solid #555;
+    border-radius: .25rem;
     display: flex;
     align-items: center;
     justify-content: center;  

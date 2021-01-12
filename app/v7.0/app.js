@@ -13,8 +13,8 @@ parser.parseString(stringgg, (err, d) => {
     app.set('view engine', 'ejs')
 
 
-    app.get('/jogos', function (req, res) {
-        res.render('jogos',{data:d["gamezone"]["games"][0]["game"]});
+    app.get('/teste', function (req, res) {
+        res.render('teste',{data:d["gamezone"]["games"][0]["game"]});
     })
 
     app.get('/perifericos', function (req, res) {
@@ -38,7 +38,7 @@ parser.parseString(stringgg, (err, d) => {
     })
 
     app.get('*', function (req, res) {
-        res.render('jogos',{data:d["gamezone"]["games"][0]["game"]});
+        res.render('teste',{data:d["gamezone"]["games"][0]["game"]});
     })
 
   } else {
