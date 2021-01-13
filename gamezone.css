@@ -8,14 +8,14 @@ body{
   padding-bottom: 50px;
   padding-left: 80px;
 }
-/* modificar todos os cards*/
+
 .cards {
     display: grid;
     grid-template-rows: 680px 680px 680px; 
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   }
 
-/* para modificar card*/
+
 .card {
     background: #444;
     border: 1px solid #555;
@@ -60,18 +60,25 @@ h1 {
 	text-transform: capitalize;
 	text-shadow: 0 2px white, 0 3px #777;
 }
-.table{
-  
-  padding-top: 125px;
-  padding-left: 120px;
+
+.table { 
+  padding-left: 80px;
 }
-/*
-margin: 0 auto;
-    max-width: 1000px;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
-    gap: 40px;
-    font-family: sans-serif;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-    grid-template-columns: 500px 500px 500px;
-    
+
+.tg td{border-color:black;
+  border-style: solid;
+  border-width:2px;
+  font-weight:normal;
+  padding:10px 5px;
+  background-color: whitesmoke;
+  }
+.tg th{
+  border-color: black;
+  border-style:solid;
+  border-width:2px;
+  font-weight:bold;
+  padding:10px 5px;
+  background-color: whitesmoke;
+  }
+
+
