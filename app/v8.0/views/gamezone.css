@@ -54,14 +54,7 @@ body{
 .btn{
   align-content: right;
 }
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-th, td {
-  padding: 5px;
-  text-align: left;    
-}
+
 /*margin:
   0 auto;
     max-width: 1000px;
