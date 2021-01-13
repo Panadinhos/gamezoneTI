@@ -23,6 +23,8 @@ Trabalho no âmbito da disciplina Tecnologias Internet , TIWM , IPMAIA 20/21. De
 * Bootstrap
 * Express
 * EJS
+* xml2js
+* fs
 * Nodemon
 
 ## Report
